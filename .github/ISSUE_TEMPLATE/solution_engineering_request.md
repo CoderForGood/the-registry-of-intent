@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the problem to be solved**
-A clear and concise description of what the problem is to be solved.
+A clear and concise description of what the problem is to be solved.  Include why its a problem worth solving, and explain who solving the problem would help.
 
 **Describe your request**
 A clear and concise description of what your request is to solve the problem.
