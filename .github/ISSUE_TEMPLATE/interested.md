@@ -1,8 +1,8 @@
 ---
 name: Joining as Team Contributor Interest
 about: Let us know you're interested in working as part of a team.
-title: "[INTEREST] "
-labels: interest
+title: "[INTERESTED] "
+labels: interested
 assignees: 'duaneking'
 
 ---
