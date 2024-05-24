@@ -8,6 +8,11 @@ I'm forming a team of software development engineers who want to work on larger 
 
 This will allow the more junior members (people with less than 10-25+ years of professional experience) to learn from the people who have it, While actively contributing to open source projects Designed to have an impact not just on the world, but to be meaningful for the resumes of the people who work on them.
 
+# Common user flow
+No matter what you want to do, you're going to have to open a ticket:
+
+https://github.com/CoderForGood/the-registry-of-intent/issues/new/choose
+
 # To Register
 
 Submit a issue and follow the 'interested' template.
