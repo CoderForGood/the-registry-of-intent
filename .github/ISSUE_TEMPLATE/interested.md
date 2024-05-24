@@ -1,5 +1,5 @@
 ---
-name: Team Contributor Interest - Joining
+name: Joining as Team Contributor Interest
 about: Let us know you're interested in working as part of a team.
 title: "[INTEREST] "
 labels: interest

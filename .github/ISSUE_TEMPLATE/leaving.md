@@ -1,5 +1,5 @@
 ---
-name: Team Contributor Interest - Leaving
+name: Leaving Team as Contributor
 about: Let us know you're requesting to be removed as part of a team.
 title: "[LEAVING] "
 labels: leaving
