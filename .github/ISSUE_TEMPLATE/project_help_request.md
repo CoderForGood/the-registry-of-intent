@@ -1,6 +1,6 @@
 ---
 name: Open Source Project Engineering Help Request
-about: For maintainers of OSI Approved Open Source projects to request help. 
+about: For maintainers of already started OSI Approved Open Source projects to request help. 
 title: "[REQUEST] "
 labels: request
 assignees: 'duaneking'
