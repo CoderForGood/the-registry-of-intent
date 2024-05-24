@@ -1,11 +1,9 @@
-
 ---
 name: Team Contributor Interest: Joining
 about: Let us know you're interested in working as part of a team.
 title: "[INTEREST] "
 labels: interest
 assignees: 'duaneking'
-
 ---
 
 **Describe your current skills**

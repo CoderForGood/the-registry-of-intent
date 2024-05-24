@@ -4,7 +4,6 @@ about: Let us know you're requesting to be removed as part of a team.
 title: "[LEAVING] "
 labels: leaving
 assignees: ''
-
 ---
 
 **Describe the request**
