@@ -23,13 +23,21 @@ Submit an issue and follow the 'leaving' template If you want to explicitly leav
 
 # Process Goals
 
-## Registering
+## Registering.
 
 We want to make registration of intent as simple and easy as possible and provide automation to make that simpler. As a result, issue templates are provided to make things easier on everybody. Please, fill them out fully if you can.
 
 But we also want to make sure there's quality control, because we're fully aware that trolls will try to do bad things. As a result, not everybody that requests to be added to the team will be added.
 
 We expect you to act professional on the team. This is something that we hope will be good for people's resumes, So we're running it with that in mind.
+
+## Requesting new OSI approved open source solutions.
+
+The goal of any good engineer is to solve problems.  New projects will be created as needed to solve explicit core problems. When a minimal viable product that does that is working and checked in and available.
+
+## Requesting help for already existing OSI approved open source projects.
+
+If a well maintained or long-standing open source software project is in critical need of a specific skill set or engineering support, they can make the request using the proper template.
 
 # Living document
 
